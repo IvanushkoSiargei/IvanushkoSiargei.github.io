@@ -156,7 +156,7 @@ h1{
     margin: 40px 0 20px 0;
 }
 .keis{
-    height: 1200px;
+    height: 1100px;
     width: 70%;
     text-align: center;
     margin: 0 auto;
@@ -180,9 +180,10 @@ h1{
     width: 90%;
 }
 .sait_visit_prev{
-    height: 400px;
+    height: 350px;
     text-align: left;
     float: left;
+    
 }
 .sait_visit_prev h2{
     font-size: 25px;
@@ -202,6 +203,9 @@ h1{
     background-color: aqua;
     color:#fff;
     border-radius: 5px;
+}
+.web{
+    margin-top: -90px;
 }
 .NAME_P{
     float: left;
@@ -350,7 +354,7 @@ h1{
 	font-size: 25px;
 }
 .call_inp{
-	width: 45%;
+	width: 44%;
 	height: 300px;
 	margin: -40px auto;
 }
