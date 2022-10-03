@@ -156,9 +156,10 @@ h1{
     margin: 40px 0 20px 0;
 }
 .keis{
-    height: 1500px;
-    width: 100%;
+    height: 1200px;
+    width: 70%;
     text-align: center;
+    margin: 0 auto;
 }
 .keis H2{
     font-size: 25px;
@@ -219,7 +220,7 @@ h1{
 }
 .calc{
 	height: 800px;
-    width: calc(100% - 400px);
+    width: 50%;
     margin: 0 auto;
 }
 .calc h2{
@@ -251,6 +252,42 @@ h1{
 }
 .cena1{
      float:right;
+}
+.stat{
+    height: 500px;
+    background-image: url(../img/fon.png);
+}
+.stat h2{
+    font-size: 25px;
+    color: #263244;
+    font-weight:700;
+    text-align: center;
+    padding-top: 110px;
+    margin-bottom: 21px;
+}
+.stat img{
+    margin-left: 85px;
+}
+.stat h4{
+    font-size: 30px;
+    color: #263244;
+    text-align: center;
+    padding:30px 0 20px 0;
+}
+.stat h5{
+    font-size: 20px;
+    color: #263244;
+    text-align: center;
+}
+.happy{
+    margin: 40px 80px 0 360px;
+    width: 220px;
+    float: left;
+}
+.time, .end, .medal{
+    margin: 40px 80px 0 80px;
+    width: 220px;
+    float: left;
 }
 .otziv{
 	height: 500px;
@@ -296,7 +333,6 @@ h1{
 }
 .PITER{
 	float:left;
-	
 }
 .mail{
 	float:left;
@@ -314,20 +350,18 @@ h1{
 	font-size: 25px;
 }
 .call_inp{
-	width: 100%;
+	width: 45%;
 	height: 300px;
 	margin: -40px auto;
 }
 .call_name{
 	float: left;
-	padding-left:calc(100% - 1460px);
 }
 .call_name input{
 	font-size: 25px;
 }
 .call_email{
-	float: left;
-    padding-left:150px;
+	float: right;
 }
 .call_email input{
 	font-size: 25px;
@@ -349,35 +383,39 @@ h1{
 	color: #eee;
 }
 .SOTS_SETI {
-    width: 100%;
-	margin-top: 85px;
-    height: 50px;
-    
+    width: 430px;
+	margin: 80px auto 0 auto;
+    height: 28px;
 }
-.fasebook{
-	margin-top: 0px;
-    margin-left: -100px;
-    
+.FASEBOOK{
+    float: left;
+    margin: 5px 0 0 7px;
 }
 .TWITER{
-	
+	float: left;
+    margin: 9px 0 0 55px;
 }
 .BOOL{
-
+    float: left;
+    margin: 6px 0 0 56px;
 }
 .GITHUB{
-	
+	float: left;
+    margin: 6px 0 0 52px;
 }
 .INSTAGRAM{
-	
+	float: left;
+    margin: 7px 0 0 53px;
 }
 .IN{
-	
+	float: left;
+    margin: 7px 0 0 53px;
 }
 footer{
     width: 1920px;;
     height: 460spx;
     background-image: url(../img/fotter.png);
+    background-origin: ;
 }
 footer p{
     height: 50px;
