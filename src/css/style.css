@@ -282,16 +282,18 @@ hr{
     background: #d1d1d1;
     width: 100%;
 }
-.itog P{
+.itog p{
     float:right;
 }
-.calc bUtton{
+.calc button{
     width: 200px;
     height: 45px;
     background-color: aqua;
     color:#fff;
     border-radius: 5px;
     font-size: 16px;
+	display: block;
+	text-align: center;
 }
 
 .stat{
@@ -357,11 +359,11 @@ hr{
 }
 
 .contacts{
-	height: 460px;
+	height: 800px;
     width: 100%;
 	color: #fff;
 	background-image: url(../img/1.png);
-    background-size: 100%;
+   
 	text-align: center;
 	
 }
@@ -393,6 +395,7 @@ hr{
     text-align: center;
     font-family: calibri;
     font-size: 13px;
+    height: 120px;
 }
 .cont_blok p{
     font-family: calibri;
@@ -410,7 +413,7 @@ hr{
 	text-align: center;
 }
 .call_my{
-	margin-top: 170px;
+	
 }
 .call_my p{
 	margin-top: 40px;
@@ -418,7 +421,7 @@ hr{
 	font-size: 25px;
 }
 .call_inp{
-	width: 50%;
+	width: 60%;
 	height: 210px;
 	margin: -30px auto;
 }
@@ -485,7 +488,7 @@ hr{
 }
 footer{
     width: 100%;
-    height: 460spx;
+    height: 460px;
     background-image: url(../img/fotter.png);
 }
 footer p{
