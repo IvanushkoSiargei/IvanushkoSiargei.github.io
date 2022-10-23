@@ -362,7 +362,7 @@ hr{
 	height: 800px;
     width: 100%;
 	color: #fff;
-	background-image: url(../img/1.png);
+	background-image: url(../img/1.jpg);
    
 	text-align: center;
 	
@@ -421,7 +421,7 @@ hr{
 	font-size: 25px;
 }
 .call_inp{
-	width: 60%;
+	width: 65%;
 	height: 210px;
 	margin: -30px auto;
 }
@@ -458,33 +458,33 @@ hr{
 	color: #eee;
 }
 .SOTS_SETI {
-    width: 40%;
-	margin: 80px auto 0 auto;
+    width: 50%;
+	margin: 125px auto;
     height: 28px;
 }
 .FASEBOOK{
     float: left;
-    margin: 2px 0 0 23%;
+    margin: 2px 0 0 120px;
 }
 .TWITER{
 	float: left;
-    margin: 5px 0 0 46px;
+    margin: 5px 0 0 55px;
 }
 .BOOL{
     float: left;
-    margin: 3px 0 0 45px;
+    margin: 3px 0 0 55px;
 }
 .GITHUB{
 	float: left;
-    margin: 3px 0 0 43px;
+    margin: 3px 0 0 52px;
 }
 .INSTAGRAM{
 	float: left;
-    margin: 3px 0 0 44px;
+    margin: 4px 0 0 53px;
 }
 .IN{
 	float: left;
-    margin: 4px 0 0 44px;
+    margin: 4px 0 0 53px;
 }
 footer{
     width: 100%;
